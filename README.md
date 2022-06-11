@@ -3,6 +3,7 @@
 # ALGORITMO
 
 inicio
+
 	x = 0
 	enquanto x < 5 faça
 		exibir("Digite Valor de A: ")
@@ -21,6 +22,7 @@ inicio
 	fimenquanto
 
 	exibir("Valor total %d",c)
+	
 fim
 
   
