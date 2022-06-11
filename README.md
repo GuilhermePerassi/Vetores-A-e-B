@@ -22,5 +22,6 @@ inicio
 
 	exibir("Valor total %d",c)
 fim
+
   
   # FLUXOGRAMA
