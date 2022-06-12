@@ -27,3 +27,5 @@ fim
 
   
   # FLUXOGRAMA
+  
+  ![Fluxograma Vetor A e B](https://github.com/GuilhermePerassi/Vetores-A-e-B/blob/6c4a47243e290da0673fb88dec2e5a33545e3c82/Fluxograma%20Vetor%20A%20e%20B.png)
